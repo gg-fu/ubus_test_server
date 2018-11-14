@@ -3,4 +3,4 @@
 
 # cmake
 # make
-#./server
+  ./server
